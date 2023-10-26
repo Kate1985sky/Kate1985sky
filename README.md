@@ -1,5 +1,8 @@
-Привіт, мене звати Катріна ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  розробка інтерфейсу ------------------ Я був фронтенд-розробником з 2021 року, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи * ✉️ Ви можете зв'язатися зі мною за адресою 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-8a2be2)](mailto:korickaakaterina@gmail.com)
+Привіт, мене звати Катріна ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+about me: 
+Я був фронтенд-розробником з 2021 року, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи * 
+
+✉️ Ви можете зв'язатися зі мною за адресою  [![Gmail Badge](https://img.shields.io/badge/Gmail-red)](mailto:korickaakaterina@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsAPP-red)](https://wa.me/3852159796)
 
 
 
