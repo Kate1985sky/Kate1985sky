@@ -4,7 +4,7 @@
 
 
 
- :man_technologist:about me: 
+ ### :man_technologist:about me: 
 
 Я був фронтенд-розробником з 2021 року <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи *
 
