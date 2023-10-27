@@ -38,8 +38,16 @@
  </a>
 </div>
 
-### Значки
 
-<b>Моя статистика GitHub</b>
+### ⚙️ GitHub статистика:
 
-<a href="http://www.github.com/Kate1985sky"><img src="https://github-readme-stats.vercel.app/api?username=Kate1985sky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика Kate1985sky GitHub" /></a>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Kate1985sky&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kate1985sky&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
