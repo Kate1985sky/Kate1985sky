@@ -4,7 +4,11 @@
 
 ## :man_technologist:about me: 
 
-Я був фронтенд-розробником з 2021 року, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи * 
+Я був фронтенд-розробником з 2021 року, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи *
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 - :mailbox: Ви можете зв'язатися зі мною за адресою  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korickaakaterina@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsAPP-green)](https://wa.me/3852159796)
 
