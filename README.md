@@ -1,4 +1,4 @@
-# Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> my name is Kateryna! 
+# Hi there**![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)** my name is Kateryna! 
 
 
 
@@ -6,7 +6,7 @@
 
 
 
- ### :man_technologist:about me: 
+### :man_technologist:about me: 
 
 I have been a front-end developer since 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, completed the front-end developer course at Hillel school and continue training with a teacher, and now I'm open to job offers.
 
