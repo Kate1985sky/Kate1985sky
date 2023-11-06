@@ -36,6 +36,9 @@ I have been a front-end developer since 2021<img src="https://media.giphy.com/me
 <a href="https://www.linkedin.com/in/katrina-korytska-705685205/" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
  </a>
+ <a href="https://www.linkedin.com/in/katrina-korytska-705685205/" target="_blank">
+   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="Instagram" />
+ </a>
 </div>
 
 
