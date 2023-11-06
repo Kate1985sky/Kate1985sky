@@ -1,4 +1,4 @@
-# **Привіт, мене звати Катерина! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
+# **Hello, my name is Kateryna! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)**
 
 
 
@@ -6,7 +6,7 @@
 
  ### :man_technologist:about me: 
 
-Я був фронтенд-розробником з 2021 року <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, закінчив курси фронтенд-розробників у школі Hillel і продовжив індивідуальне навчання з викладачем, і тепер я відкритий для пропозицій роботи.
+I have been a front-end developer since 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, completed the front-end developer course at Hillel school and continue training with a teacher, and now I'm open to job offers.
 
 <p align="center">
  <img width="600" src="gift-snake.svg" alt="snake"/>
@@ -15,7 +15,7 @@
 - :mailbox: Ви можете зв'язатися зі мною за адресою  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korickaakaterina@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsAPP-green)](https://wa.me/3852159796)
 
 
-### Навички
+### Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -31,7 +31,7 @@
 </div>
 
 
-### Соціальні мережі
+### Social networks
 <div>
 <a href="https://www.linkedin.com/in/katrina-korytska-705685205/" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -39,7 +39,7 @@
 </div>
 
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
