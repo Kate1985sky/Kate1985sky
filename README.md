@@ -1,4 +1,4 @@
-# **Hi there ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) height="32"/> my name is Kateryna!**
+# **Hi there ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) my name is Kateryna!**
 
 
 
