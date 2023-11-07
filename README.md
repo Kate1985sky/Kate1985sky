@@ -42,7 +42,7 @@ I have been a front-end developer since 2021<img src="https://media.giphy.com/me
    <img src="https://www.flaticon.com/free-icons/instagram-logo" width="40" height="40" alt="Instagram" />
  </a>
 </div>
-![image](https://github.com/Kate1985sky/Kate1985sky/assets/104839199/41641b6c-4c8c-42a0-a619-91f408b1f957)
+<a href="https://www.flaticon.com/ru/free-icons/-instagram" title="логотип instagram иконки">Логотип instagram иконки от Laisa Islam Ani - Flaticon</a>
 
 
 ### ⚙️ GitHub statistics:
