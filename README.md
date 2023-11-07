@@ -1,4 +1,4 @@
-# Hi there ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) my name is Kateryna!
+# Hi there, my name is Kateryna!
 
 
 
@@ -39,7 +39,7 @@ I have been a front-end developer since 2021<img src="https://media.giphy.com/me
    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
  </a>
  <a href="https://www.instagram.com/Katyakoritskaya" target="_blank">
-   <img src="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons" width="40" height="40" alt="Instagram" />
+   <img src="https://www.flaticon.com/free-icons/instagram-logo" width="40" height="40" alt="Instagram" />
  </a>
 </div>
 
