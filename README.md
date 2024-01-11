@@ -14,7 +14,7 @@ I have been a front-end developer since 2021<img src="https://media.giphy.com/me
  <img width="600" src="gift-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Ви можете зв'язатися зі мною за адресою  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korickaakaterina@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsAPP-green)](https://wa.me/3852159796)
+- :mailbox: You can contact me at  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korickaakaterina@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsAPP-green)](https://wa.me/3852159796)
 
 
 ### Skills
