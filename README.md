@@ -8,7 +8,10 @@
 
 ### :man_technologist:about me: 
 
-I have been a front-end developer since 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, completed the front-end developer course at Hillel school and continue training with a teacher, and now I'm open to job offers.
+I have been a front-end developer since 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, 
+In the period from 2021 to the present,I continue to strengthen my knowledge and study new technologies and new approaches, every time I am looking for new tools to improve my project.
+
+I am a disciplined, responsible, hardworking worker and am looking for a team to promote ideas and achieve goals.
 
 <p align="center">
  <img width="600" src="gift-snake.svg" alt="snake"/>
