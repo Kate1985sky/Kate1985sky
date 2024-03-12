@@ -39,7 +39,7 @@ I am a disciplined, responsible, hardworking worker and am looking for a team to
 
 ### Social networks
 <div>
-<a href="https://www.linkedin.com/in/kateryna-korytska-705685205/" target="_blank">
+<a href="https://www.linkedin.com/in/kateryna-korytska" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
  </a>
  </div>
