@@ -11,7 +11,7 @@
 I have been a front-end developer since 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, 
 In the period from 2021 to the present,I continue to strengthen my knowledge and study new technologies and new approaches, every time I am looking for new tools to improve my project.
 
-I am a disciplined, responsible, hardworking worker and am looking for a team to promote ideas and achieve goals.
+I fell in love with the world of development and want to create the best interfaces that I can be proud of, I feel great pleasure to be part of a project that has changed the world for the better.
 
 <p align="center">
  <img width="600" src="gift-snake.svg" alt="snake"/>
